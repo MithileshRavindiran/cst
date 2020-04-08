@@ -14,13 +14,13 @@
 **1. Clone the repository**
 
 ```bash
-
+ https://github.com/MithileshRavindiran/cst.git
 ```
 
 **2. Run the app using maven**
 
 ```bash
-cd customerstatementprocessor
+cd cst
 mvn spring-boot:run
 ```
 
