@@ -21,7 +21,7 @@
 		<jaxb.core.version>2.3.0</jaxb.core.version>
 		<apache.commons.csv>1.8</apache.commons.csv>
 		<mockito.core.version>2.23.4</mockito.core.version>
-		<springfox.swagger.version>2.9.2</springfox.swagger.version>
+		<springfox.swagger.version>2.10.0</springfox.swagger.version>
 		<junit.platform.runner>1.2.0</junit.platform.runner>
 	</properties>
 
